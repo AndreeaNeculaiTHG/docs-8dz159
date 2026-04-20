@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-gqjodc.cluster.world/sitemap.xml
